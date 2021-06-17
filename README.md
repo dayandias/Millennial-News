@@ -1,3 +1,7 @@
+<a href="https://docs.google.com/presentation/d/1rY0w8juzAyyAkydX0p4rKok1ECNhmJCzkyQ8V0Hudkc/edit#slide=id.p">Final presentation</a>
+
+<a href="https://www.youtube.com/watch?v=VK8rzv0Ku3g">YouTube Video URL</a>
+
 <h1>Millennial News</h1>
 
 1. What is/are the problem/s you want to solve? Please provide background based on research.
@@ -45,6 +49,3 @@ Existing solutions:
 <h4>Log in Activity</h4>
 <img src="https://webpage.pace.edu/ad44798n/MobileProjectGUI/5.1-Login%20Activity.png" width="300px" />
 
-<a href="https://docs.google.com/presentation/d/1rY0w8juzAyyAkydX0p4rKok1ECNhmJCzkyQ8V0Hudkc/edit#slide=id.p">Final presentation</a>
-
-<a href="https://www.youtube.com/watch?v=VK8rzv0Ku3g">YouTube Video URL</a>
